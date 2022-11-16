@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Client
+comment0.text=\r\n\ <p>Materialien\ zu\ den\ zentralen\r\n\ Abiturpruefungen\ im\ Fach\ Informatik\ ab\ 2012\ in\r\n\ Nordrhein-Westfalen.</p>\r\n\ <p>Klasse\ Client</p>\r\n\r\n\ Ein\ Client\ kann\ &uuml;ber\ das\ Netz\ die\ Verbindung\ zu\ einem\ Server\ herstellen.<br>\r\n\ Fehlermeldungen\ werden\ ausgegeben.<br>\r\n\ Die\ Eingaben\ werden\ nebenl&auml;ufig\ verarbeitet.\r\n<p>NW-Arbeitsgruppe\:\ Materialentwicklung\ zum\ Zentralabitur\r\n\ im\ Fach\ Informatik</p>\r\n\r\n\ @version\ 2010-10-24\r\n
+numComments=1
