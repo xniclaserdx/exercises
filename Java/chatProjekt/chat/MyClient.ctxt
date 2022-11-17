@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=MyClient
-comment1.params=pIP\ pPort\ pNutzername
-comment1.target=MyClient(java.lang.String,\ int,\ java.lang.String)
-comment2.params=pMessage
-comment2.target=void\ processMessage(java.lang.String)
-comment3.params=knopf
-comment3.target=void\ bearbeiteKnopfDruck(basis.Knopf)
-numComments=4
